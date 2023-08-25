@@ -1,4 +1,4 @@
-import useMap from "../hooks/useMAp";
+import useMap from "../hooks/useMap";
 
 function MapPage() {
   const { mapContainer } = useMap();
