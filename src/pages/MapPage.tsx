@@ -1,6 +1,7 @@
 import useMap from "../hooks/useMap";
 
 function MapPage() {
+  console.log("MapPage");
   const { mapContainer } = useMap();
 
   return (
